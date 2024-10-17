@@ -1,0 +1,5 @@
+Step 1: Accept an integer value greater than 1
+Step 2: Decrease the value of the interger by 1
+Step 3: Repeat steps 1 + 2 until integer = 0
+Step 4: Multiply the stored values together
+Step 5: print the value out to the user!
